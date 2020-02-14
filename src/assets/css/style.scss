@@ -1,0 +1,13 @@
+@font-face {
+     font-family: 'Lato-Black';
+     src:  url('../fonts/Lato2OFL/Lato-Black.ttf') format('truetype');
+     font-weight: 600;
+     font-style: normal;
+   }
+
+$body-color: red;
+
+body {
+  color: $body-color;
+  font-family : 'Lato-Black';
+}
